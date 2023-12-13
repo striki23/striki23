@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning Python, web
-- 📫 How to reach me: <a href="https://e.mail.ru/compose/?to=admin@google.com">
+- 📫 How to reach me: <a href="https://e.mail.ru/compose/?to=striki06@mail.ru">
     <img src="https://img.shields.io/badge/@Mailru-blue?style=for-the-badge&logo=mailru&logoColor=white" alt="Mailru Badge"/>
   </a> <a href="https://t.me/striki23">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
