@@ -11,9 +11,7 @@
   </a> <a href="https://t.me/striki23">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
 - ⚡ Fun fact: very hardworking and can't live without sweets and cookies
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif" width="200"/>
 </div>
